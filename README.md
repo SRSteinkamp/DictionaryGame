@@ -13,7 +13,7 @@ To run the game, you need a Google spreadsheet and two Google forms.
 2. Go to the second sheet, and use the first two columns as "Words" and "Real"
  the label actually doesn't matter. The scripts will start looking for words and definitions in the second row.
 3. Run the script "DefinitionGameForm1.js". Basically go to add scripts in the Form settings. Furthermore add a description etc. The script will add questions etc. based on the Words in "Words".
-4. After people answered the questions link the 3rd Form to the 3rd sheet. And run "DefintionGameForm2.js"
+4. After people answered the questions link the 2nd Form to the 3rd sheet. And run "DefintionGameForm2.js"
 5. To get an overview over the results run DefinitionGameResults.js in the Spreadsheet.
 
 **Important** : You have to add the URLs of the corresponding forms to the scripts. And allow the scripts to alter your files...
